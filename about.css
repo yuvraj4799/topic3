@@ -1,0 +1,31 @@
+body {
+    background-color: #94969f;
+}
+
+h1 {
+    color: black;
+    font-family: verdana;
+    text-align: center;
+}
+
+p {
+    margin-left: 50px;
+    margin-right: 50px;
+    color: black;
+    font-family: verdana;
+}
+
+ul {
+    margin-left: 100px;
+    color: black;
+    font-family: verdana;
+}
+
+#ab1 {
+    border-radius: 25px;
+    background: white;
+    margin-left: 525px;
+    padding: 10px;
+    width: 350px;
+    height: 340px;
+}
